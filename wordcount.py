@@ -9,7 +9,7 @@ texts ="Business owners across the country, built hotels and residencies to serv
 
 ############## HERE every single special characters are replaced with NOTHING
 
-replaced_text = texts.replace(",.","")
+replaced_text = texts.replace(".","")
 
 replaced_text = replaced_text.replace(".","")
 
