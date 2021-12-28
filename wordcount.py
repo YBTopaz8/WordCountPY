@@ -31,6 +31,9 @@ for word in split_texts:
 
 print(word_dic)
 
+
+print(len(word_dic.keys())) ##to count the number of unique words in the dictionary
+
 print("===========================================================================================")
 word_freq = []
 
